@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+## OUTPUTS
+
+<p align="center" style="display:flex; flex-wrap:nowrap; justify-content:space-around;">
+  <img src="https://github.com/user-attachments/assets/9be5369a-3c44-484c-ae3b-1d6d110fc406" alt="Screenshot 1" width="45%" style="display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/0f6ae586-97e4-49e1-9401-d83e6d52167c" alt="Screenshot 2" width="45%" style="display:inline-block;" />
+</p>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
